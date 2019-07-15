@@ -1,0 +1,20 @@
+.bg-periwinkle {
+  background-color: #c0d2f0;
+}
+
+.btn-periwinkle {
+  background-color: #c0d2f0;
+}
+
+.btn-periwinkle:hover {
+  background-color: #dbaae6;
+  cursor: pointer;
+}
+
+.text-periwinkle{
+  color: #c0d2f0
+}
+
+.btn-magenta {
+  background-color: #dbaae6;
+}
